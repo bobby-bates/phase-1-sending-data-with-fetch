@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,70 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Frida",
+      "dogBreed": "Dunno",
+      "id": 3
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Frida",
+      "dogBreed": "Dunno",
+      "id": 6
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Bryon",
+      "dogBreed": "Poodle",
+      "id": 14
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +83,82 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
